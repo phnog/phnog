@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 -My name is Pedro Nogueira and i am an enthusiast for games and technology.
 
 
