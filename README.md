@@ -2,9 +2,8 @@
 -My name is Pedro Nogueira and i am an enthusiast for games and technology.
 
 
-- 🎒 I’m currently graduating in Software Engineering for UnB
-- 📘 I’m currently learning JavaScript
-- ✈️ I’m currently living in Brasilia.
+- 🎒 I'm a software engineer student at UnB
+
 
 
 
