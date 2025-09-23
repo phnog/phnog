@@ -1,5 +1,10 @@
-<h3>🚀 Fullstack Explorer </h1>
-<p>A finished projects are a dead projects, so I leave them unfinished :trollface:</p>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <div>
+    <h3>🚀 Fullstack Explorer</h3>
+    <p>A finished project is a dead project, so I leave them unfinished :trollface:</p>
+  </div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN1cG8zYjlrdGVvZTMyM3Y5ajZjaW15NnFncWo2Mmg2ZmFhaG9rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFNLKgxi819ugPTiq9/giphy.gif" alt="Funny Dev GIF" width="150" />
+</div>
 
 
 ## 💻 Tech Stack
