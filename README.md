@@ -9,6 +9,7 @@ name: "Pedro Henrique Nogueira"
 location: "Based on the internet"
 about: "Focused on frontend, backend, and everything in between"
 right-now: "Currently exploring AI integrations and creative tooling"
+graduation: "Bachelor's degree in Software Engineering from Universidade de Brasília"
 likes:
   - Coffee ☕
   - Movies 🎞️
