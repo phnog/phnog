@@ -10,6 +10,7 @@ location: "Based on the internet"
 about: "Focused on frontend, backend, and everything in between"
 right-now: "Currently exploring AI integrations and creative tooling"
 graduation: "Bachelor's degree in Software Engineering from Universidade de Brasília"
+contact: "By smoke signal or via the LinkedIn link in my bio."
 likes:
   - Coffee ☕
   - Movies 🎞️
