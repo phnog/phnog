@@ -7,7 +7,7 @@
 </div>
 
 
-## 💻 Tech Stack
+## 💻 About Me
 
 ```bash
 name: "Pedro Henrique Nogueira"
