@@ -1,9 +1,10 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <div>
     <h3>🚀 Fullstack Explorer</h3>
-    <p>A finished project is a dead project, so I leave them unfinished :trollface:</p>
   </div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN1cG8zYjlrdGVvZTMyM3Y5ajZjaW15NnFncWo2Mmg2ZmFhaG9rMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFNLKgxi819ugPTiq9/giphy.gif" alt="Funny Dev GIF" width="150" />
+<div align="center">
+  <img src="assets/now-playing.svg" alt="Pedro is now playing WOW Forever" width="360" />
+</div>
 </div>
 
 
@@ -71,17 +72,3 @@ likes:
 **PICHIT** is a sleek software tool designed to help you craft compelling pitch presentations for your ideas, products, or visuals. Whether you're preparing for investors, clients, or a creative showcase, PICHIT guides you through structure, tone, and visuals to make your pitch pop.  
 
 
-## 👾 Contribution Pac-Man
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phnog/phnog/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phnog/phnog/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/phnog/phnog/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
-
-
-## 🎮 Now Playing
-<div align="center">
-  <img src="assets/now-playing.svg" alt="Pedro is now playing WOW Forever" width="360" />
-</div>
